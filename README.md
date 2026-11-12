@@ -1,6 +1,6 @@
 ### Hi, I'm RK 👋
 
-Digital transformation and AI delivery leader based in Paris. Twenty years in automotive IT, now building agents, assistants and assessments, and shipping them.
+Digital transformation and AI delivery leader based in Paris. Twenty years in automotive IT, now building agents, assistants and assessments and shipping them.
 
 **What I'm building**
 
