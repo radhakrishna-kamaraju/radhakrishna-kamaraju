@@ -10,4 +10,4 @@ Digital transformation and AI delivery leader based in Paris. Twenty years in au
 
 **Stack:** Claude API · Node.js · Docker · Traefik · Cloudflare · GitHub
 
-**Find me:** [radhakrishnakamaraju.com](https://radhakrishnakamaraju.com) · [Résumé (PDF)](https://radhakrishnakamaraju.com/Radhakrishna-Kamaraju-Resume.pdf)
+**Find me:** [radhakrishnakamaraju.com](https://radhakrishnakamaraju.com) · [Résumé (PDF)](https://radhakrishnakamaraju.com/Radhakrishna-Kamaraju-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/radhakrishna-kamaraju/)
