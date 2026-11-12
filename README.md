@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm RK 👋
 
-<!--
-**radhakrishna-kamaraju/radhakrishna-kamaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital transformation and AI delivery leader based in Paris. Twenty years in automotive IT, now building agents, assistants and assessments, and shipping them.
 
-Here are some ideas to get you started:
+**What I'm building**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Industrial AI Index](https://industrial-ai.radhakrishnakamaraju.com)**: a free AI-readiness assessment for manufacturers, with a tailored report written by Claude
+- **[Ask this site](https://radhakrishnakamaraju.com)**: an assistant that answers only from my public site content, with guardrails and rate limits
+- **Clawdia**: a personal AI assistant I run on my own server, documented in a ten-day public series
+
+**Stack:** Claude API · Node.js · Docker · Traefik · Cloudflare · GitHub
+
+**Find me:** [radhakrishnakamaraju.com](https://radhakrishnakamaraju.com) · [Résumé (PDF)](https://radhakrishnakamaraju.com/Radhakrishna-Kamaraju-Resume.pdf)
